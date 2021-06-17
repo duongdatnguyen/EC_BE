@@ -51,6 +51,10 @@ app.use(express.urlencoded(
 db.connect();
 route(app);
 
+<<<<<<< HEAD
 app.listen(process.env.PORT||port, () => {
+=======
+app.listen(port, () => {
+>>>>>>> 75149516f5acc91429ed2c3967d50397a97478e0
     console.log(`Example app listening at http://localhost:${port}`)
   })

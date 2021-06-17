@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/lvminh/UTE2.21-EC18B301-BE#readme",
   "dependencies": {
+<<<<<<< HEAD
     "@types/mongoose-sequence": "^3.0.5",
+=======
+>>>>>>> 75149516f5acc91429ed2c3967d50397a97478e0
     "bcrypt": "^5.0.1",
     "connect-mongo": "^4.4.1",
     "dotenv": "^8.2.0",
@@ -25,10 +28,14 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "express-validator": "^6.10.0",
+<<<<<<< HEAD
     "moment": "^2.29.1",
     "mongoose": "^5.12.3",
     "mongoose-auto-increment": "^5.0.1",
     "mongoose-beautiful-unique-validation": "^7.1.1",
+=======
+    "mongoose": "^5.12.3",
+>>>>>>> 75149516f5acc91429ed2c3967d50397a97478e0
     "passport": "^0.4.1",
     "passport-auth0": "^1.4.0",
     "passport-local": "^1.0.0"
